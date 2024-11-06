@@ -9,8 +9,8 @@ The goal of this project is to enhance robot perception using deep learning tech
 - **Navigate and make decisions** based on visual and spatial data for tasks like object manipulation or pathfinding.
 
 ## Code References
-- [https://github.com/opipari/DeepRobWeb](Deep Learning for Robot Perception)
-- [https://github.com/weiyx16/Active-Perception](Deep Reinforcement Learning for Robotic Pushing and Picking in Cluttered Environment)
+- [Deep Learning for Robot Perception](https://github.com/opipari/DeepRobWeb)
+- [Deep Reinforcement Learning for Robotic Pushing and Picking in Cluttered Environment](https://github.com/weiyx16/Active-Perception)
 
 ## Key Components
 
