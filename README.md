@@ -25,4 +25,4 @@ The goal of this project is to enhance robot perception using deep learning tech
 - **Efficient Task Automation**: Improved accuracy in perception will streamline automation tasks, from navigation to object manipulation.
 - **Scalable Framework**: The ROSpy and deep learning framework will be scalable, enabling easy modifications and adaptability to different robot types and perception tasks.
 
-This project combines the power of ROSpy's ecosystem for robotic control with deep learning's capabilities in perception, providing a foundation for complex robotic applications in real-world environments.
+This project will combine the power of ROSpy's ecosystem for robotic control with deep learning's capabilities in perception, providing a foundation for complex robotic applications in real-world environments.
