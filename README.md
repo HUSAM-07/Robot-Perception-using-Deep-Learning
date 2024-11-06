@@ -28,6 +28,7 @@ flowchart TD
     K --> H
 
     J --> L[Project Complete]
+```
 
 
 ## Key Components
