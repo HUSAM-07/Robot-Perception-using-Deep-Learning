@@ -12,6 +12,24 @@ The goal of this project is to enhance robot perception using deep learning tech
 - [Deep Learning for Robot Perception](https://github.com/opipari/DeepRobWeb)
 - [Deep Reinforcement Learning for Robotic Pushing and Picking in Cluttered Environment](https://github.com/weiyx16/Active-Perception)
 
+```mermaid
+flowchart TD
+    A[Start Project] --> B[Define Objectives]
+    B --> C[Set Up ROSpy Environment]
+    C --> D[Collect and Preprocess Sensor Data]
+    D --> E[Train Deep Learning Model]
+    E --> F[Integrate Model with ROSpy]
+    F --> G[Real-Time Processing Module]
+    G --> H[Test Perception System]
+    H --> I{System Meets Objectives?}
+    
+    I -- Yes --> J[Deploy to Robot]
+    I -- No --> K[Optimize Model & Code]
+    K --> H
+
+    J --> L[Project Complete]
+
+
 ## Key Components
 
 1. **Deep Learning Models**: We will utilize convolutional neural networks (CNNs) for image-based perception, with architectures like YOLO, Mask R-CNN, or custom-trained models depending on specific tasks.
