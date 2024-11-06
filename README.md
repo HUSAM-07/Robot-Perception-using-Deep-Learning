@@ -8,6 +8,10 @@ The goal of this project is to enhance robot perception using deep learning tech
 - **Recognize objects** in dynamic environments with the ability to classify and segment various objects.
 - **Navigate and make decisions** based on visual and spatial data for tasks like object manipulation or pathfinding.
 
+## Code References
+- ![https://github.com/opipari/DeepRobWeb](Deep Learning for Robot Perception)
+- ![https://github.com/weiyx16/Active-Perception](Deep Reinforcement Learning for Robotic Pushing and Picking in Cluttered Environment)
+
 ## Key Components
 
 1. **Deep Learning Models**: We will utilize convolutional neural networks (CNNs) for image-based perception, with architectures like YOLO, Mask R-CNN, or custom-trained models depending on specific tasks.
