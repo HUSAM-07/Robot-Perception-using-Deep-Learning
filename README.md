@@ -1,4 +1,4 @@
-| AI for Robotics Project
+### AI for Robotics Project
 # Project Documentation: Robot Perception using Deep Learning
 
 ## Objective
